@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What cloud offerings do you have?",
+    "answer": "We offer several cloud solutions to meet diverse business requirements:\n\n1. Managed Cloud Hosting — Fully managed infrastructure for seamless operation.\n2. Virtual Private Servers (VPS) — Dedicated resources within a shared environment.\n3. Public Cloud Services — Access to scalable computing power and on-demand resources."
+  },
+  {
+    "question": "Tell me about Managed Cloud Hosting",
+    "answer": "Managed Cloud Hosting provides a fully-managed environment with monitoring, automated backups, security patching, and 24/7 support. Ideal for teams that want to offload infrastructure operations."
+  },
+  {
+    "question": "Tell me about Virtual Private Servers (VPS)",
+    "answer": "Our VPS plans give you dedicated CPU/RAM quotas, root access, and predictable billing. Use VPS for web apps, staging servers, or medium-traffic services."
+  },
+  {
+    "question": "Tell me about Public Cloud Services",
+    "answer": "Public Cloud Services include on-demand compute instances, managed databases, and object storage. Scale up or down and pay only for what you use."
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "Click 'Forgot Password' on the login page to reset your password via email. If you don't receive the email within a few minutes, check your spam folder or contact support."
+  },
+  {
+    "question": "What are your business hours?",
+    "answer": "We’re open 9am to 5pm, Monday through Friday."
+  }
+]

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Clara — AI Customer Support</title>
+    <link rel="stylesheet" href="/static/css/style.css" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+  </head>
+  <body>
+    <div class="chat-container">
+      <h2>Clara — AI Customer Support</h2>
+      <div id="chat-box" class="chat-box" aria-live="polite"></div>
+      <div class="input-row">
+        <input
+          id="user-input"
+          placeholder="Type your message..."
+          autocomplete="off"
+        />
+        <button id="send-btn">Send</button>
+      </div>
+      <div class="controls-row">
+        <button id="summary-btn" class="ctrl-btn">Summarize</button>
+        <button id="escalate-btn" class="ctrl-btn">Escalate</button>
+      </div>
+      <small>Powered by Google Gemini — Clara at your service</small>
+    </div>
+
+    <script src="/static/js/chat.js"></script>
+  </body>
+</html>
